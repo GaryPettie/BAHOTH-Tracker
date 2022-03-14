@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fede4832991a7c47966b799308c4de2, type: 3}
+  m_Name: FatherRhinehardt
+  m_EditorClassIdentifier: 
+  characterName: Father Rhinehardt
+  age: 62
+  height: 5' 9"
+  weight: 185
+  hobbies:
+  - Fencing
+  - Gardening
+  birthday: 29th April
+  startingSpeedIndex: 3
+  startingMightIndex: 3
+  startingSanityIndex: 5
+  startingKnowledgeIndex: 4
+  speed: 000000000200000003000000030000000400000005000000060000000700000007000000
+  might: 000000000100000002000000020000000400000004000000050000000500000007000000
+  sanity: 000000000300000004000000050000000500000006000000070000000700000008000000
+  knowledge: 000000000100000003000000030000000400000005000000060000000600000008000000
